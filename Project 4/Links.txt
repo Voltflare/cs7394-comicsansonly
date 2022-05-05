@@ -1,3 +1,0 @@
- http://localhost:8501
-
-https://cs7394project4.herokuapp.com/
